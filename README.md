@@ -57,27 +57,31 @@ This project implements a SQL-based system to solve these issues efficiently.
 
 ##  Output Screenshots
 
-###  1. Final Students Table
 
-![Students](images/Screenshot%202026-04-15%20090531.png)
 
 ---
 
-###  2. Overdue Books Output
+###  1. Overdue Books Output
+![Overdue](images/Screenshot%202026-04-15%20090155.png)
 
-![Overdue](images/Screenshot%202026-04-15%20090507.png)
+
 
 ---
 
-###  3. Popular Category Output
+###  2. Popular Category Output
 
 ![Category](images/Screenshot%202026-04-15%20090217.png)
 
 ---
 
-###  4. Query Execution
+###  3. Delete Inactive Students 
 
-![Query](images/Screenshot%202026-04-15%20090155.png)
+![Query](images/Screenshot%202026-04-15%20090507.png)
+
+###  4. Final Students Table
+
+![Students](images/Screenshot%202026-04-15%20090531.png)
+
 
 ---
 
